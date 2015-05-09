@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" width="420mm" height="297mm"
+     viewBox="0,0,420,297">
+	<style>text{font-family: Helvetica, sans-serif;}</style>
+	<g id="logo">
+		<rect style="fill:orange" x="120" y="10" width="180" height="40"></rect>
+		<text x="140" y="30">SVG Cheatsheet</text>
+	</g>
+	<g id="elements" transform="translate(10,70)">
+		<text x="20" y="0">Elements</text>
+		<g id="circle" transform="translate(10,20)">
+			<circle r="10" cx="30"></circle>
+			<text x="0" y="20">&lt;circle&gt;</text>
+		</g>
+		<g id="rect">
+			<rect x="80" y="80" width="20" height="20"></rect>
+			<text x="80" y="20">&lt;rect&gt;</text>
+		</g>
+		<g id="rect">
+			<rect x="80" y="80" width="20" height="20"></rect>
+			<text x="80" y="20">&lt;rect&gt;</text>
+		</g>
+	</g>
+</svg>
